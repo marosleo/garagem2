@@ -1,1 +1,1 @@
-web: gunicorn garagem/garagem.wsgi
+web: gunicorn garagem.garagem.wsgi
